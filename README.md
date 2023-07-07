@@ -1,3 +1,1 @@
-# angelhack-dev-hangouts
-
-The various sessions' materials can be found in their respective branches
+# AngelHack Dev Hangouts Session 2 - Creating an ERC20 Token
