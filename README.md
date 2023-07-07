@@ -1,1 +1,1 @@
-# AngelHack Dev Hangouts Session 2 - Creating an ERC20 Token
+# AngelHack Dev Hangouts Session 3 - Introduction to Hardhat
